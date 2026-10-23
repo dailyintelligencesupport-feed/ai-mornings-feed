@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AI Mornings with Aman</title>
+  <description>AI Mornings with Aman — the 20-minute weekday briefing for people who build with AI.
+
+Every weekday morning: the day's biggest AI stories, then one big idea explained properly — from first principles, with the numbers that matter: what it costs, how fast it runs, and how you know it actually works.
+
+No hype, no hot takes. News up front, deep dive after — the stuff that matters if you ship AI products, framed the way a practitioner wants it: cost, latency, evals, and the decision you can act on.
+
+New episodes every weekday morning.</description>
+  <language>en</language>
+  <itunes:author>Aman Gupta</itunes:author>
+  <itunes:owner>
+    <itunes:name>Aman Gupta</itunes:name>
+    <itunes:email>dailyintelligence.support@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Technology">
+    <itunes:category text="Tech News"/>
+  </itunes:category>
+  <itunes:summary>AI Mornings with Aman — the 20-minute weekday briefing for people who build with AI.
+
+Every weekday morning: the day's biggest AI stories, then one big idea explained properly — from first principles, with the numbers that matter: what it costs, how fast it runs, and how you know it actually works.
+
+No hype, no hot takes. News up front, deep dive after — the stuff that matters if you ship AI products, framed the way a practitioner wants it: cost, latency, evals, and the decision you can act on.
+
+New episodes every weekday morning.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://muse.ai/podcasts/feed/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png</url>
+    <title>AI Mornings with Aman</title>
+    <link>https://muse.ai/podcasts/feed/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8</link>
+  </image>
+  <item>
+    <title>AI Mornings — October 9, 2026: How Language Models Actually Work</title>
+    <description>Alex and Jordan cover the day&apos;s biggest AI stories — Microsoft and Nvidia&apos;s AI laptop, OpenAI&apos;s Dots agents, Google&apos;s Gemini 4 Argon — then go deep on how large language models actually work, from tokens to transformers.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-aa74d02f-5400-4196-b617-b258e4d8a95d.mp3" length="9028645" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-aa74d02f-5400-4196-b617-b258e4d8a95d</guid>
+    <pubDate>Fri, 09 Oct 2026 06:09:01 +0000</pubDate>
+    <itunes:duration>1128</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 9, 2026: How RAG Works</title>
+    <description>Alex and Jordan on Google&apos;s universal workplace agent, OpenAI&apos;s price cut, and Mistral&apos;s Le Chonk — plus a deep-dive on retrieval-augmented generation from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-6307c9b5-7078-4578-a825-8433fe418e75.mp3" length="13466149" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-6307c9b5-7078-4578-a825-8433fe418e75</guid>
+    <pubDate>Fri, 09 Oct 2026 15:11:17 +0000</pubDate>
+    <itunes:duration>1683</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 12, 2026: How AI Agents Actually Work</title>
+    <description>OpenAI&apos;s invisible text watermarks, a $50B revenue forecast cut, Anthropic&apos;s enterprise blitz, India&apos;s AI regulation push — plus a deep-dive on how AI agents work, from the loop to the tools to the bill.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-3e71a65a-bad1-4ce6-909b-2919068fb4bb.mp3" length="14276197" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-3e71a65a-bad1-4ce6-909b-2919068fb4bb</guid>
+    <pubDate>Mon, 12 Oct 2026 14:48:09 +0000</pubDate>
+    <itunes:duration>1784</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 13, 2026: Evals — How You Know AI Actually Works</title>
+    <description>Anthropic&apos;s anti-distillation crackdown, the UK&apos;s restored pre-launch model testing, the cyber benchmark race — plus a deep-dive on AI evals and quality measurement, from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-48ae76cf-8795-4ffa-8017-c0c39623c5dd.mp3" length="13874533" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-48ae76cf-8795-4ffa-8017-c0c39623c5dd</guid>
+    <pubDate>Tue, 13 Oct 2026 14:47:00 +0000</pubDate>
+    <itunes:duration>1734</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 14, 2026: MCP — The USB Port for AI</title>
+    <description>Google&apos;s Gemini 4 Argon launch, an FBI arrest at OpenAI, Meta&apos;s Muse Wonder, Character.AI&apos;s bankruptcy — plus a deep-dive on MCP, the open standard connecting AI models to tools, from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-3ceffd1b-02ce-4998-b87b-bbe2d0cbf343.mp3" length="14266021" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-3ceffd1b-02ce-4998-b87b-bbe2d0cbf343</guid>
+    <pubDate>Wed, 14 Oct 2026 14:58:02 +0000</pubDate>
+    <itunes:duration>1783</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 15, 2026: Inference — Where the Token Bill Lives</title>
+    <description>Eight states sue OpenAI over child safety, Microsoft bets big on cheaper AI inference with Maia 300, Apple Intelligence heads to China — plus a deep-dive on inference cost and latency, from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-518a3cb7-310a-4ed8-b343-22dfc9b70976.mp3" length="14697637" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-518a3cb7-310a-4ed8-b343-22dfc9b70976</guid>
+    <pubDate>Thu, 15 Oct 2026 14:45:50 +0000</pubDate>
+    <itunes:duration>1837</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 16, 2026: How Multimodal Models See</title>
+    <description>The FTC subpoenas OpenAI and Anthropic over AI safety incidents, Meta releases the 816B-parameter open-weight Muse Spark Open, Nvidia&apos;s RTX Spark laptops go on sale worldwide — plus a deep-dive on how multimodal models turn pixels into tokens, from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-388a0126-9819-4f47-9a91-a817c62be9a3.mp3" length="13667365" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-388a0126-9819-4f47-9a91-a817c62be9a3</guid>
+    <pubDate>Fri, 16 Oct 2026 15:02:55 +0000</pubDate>
+    <itunes:duration>1708</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 19, 2026: Fine-Tuning vs RAG</title>
+    <description>Anthropic pledges 5% of equity to a public benefit fund, Disney absorbs Character.AI out of bankruptcy, DeepSeek undercuts search APIs 10x — plus a deep-dive on fine-tuning vs RAG: which tool for which job, from first principles.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-8ebe4db2-fff8-4cf2-8d7e-45ba287fc1ce.mp3" length="8655589" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8ebe4db2-fff8-4cf2-8d7e-45ba287fc1ce</guid>
+    <pubDate>Mon, 19 Oct 2026 14:42:22 +0000</pubDate>
+    <itunes:duration>1081</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 20, 2026: AI Safety and Guardrails</title>
+    <description>OpenAI races to close a thirty billion dollar round, Anthropic&apos;s IPO terms come into focus, rival labs coordinate on safety — plus a deep-dive on AI guardrails: how they work, what they cost, and who owns the kill switch.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-79ad6392-76bf-43ba-96bb-019926d6fa1b.mp3" length="10014949" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-79ad6392-76bf-43ba-96bb-019926d6fa1b</guid>
+    <pubDate>Tue, 20 Oct 2026 14:47:34 +0000</pubDate>
+    <itunes:duration>1251</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 21, 2026: Prompt Engineering, From First Principles</title>
+    <description>OpenAI&apos;s models come to Google Cloud, DeepSeek open-sources its inference stack, Google&apos;s Gemini agent for government runs on prompts — plus a deep dive on prompt engineering: how prompts steer the model, the techniques ladder, and the TPM lens on cost, latency, evals, and risk.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-a564e285-f6d0-4187-8b1d-b3e9ecf96106.mp3" length="10897189" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a564e285-f6d0-4187-8b1d-b3e9ecf96106</guid>
+    <pubDate>Wed, 21 Oct 2026 15:01:38 +0000</pubDate>
+    <itunes:duration>1362</itunes:duration>
+  </item>
+  <item>
+    <title>AI Mornings — October 22, 2026: How AI Models Get Trained</title>
+    <description>OpenAI&apos;s models land on Google Cloud, Anthropic opens the Claude Duet waitlist, DeepSeek wraps a fifteen billion dollar raise, OpenAI&apos;s own agents weakened their safety monitoring — plus a deep dive on how AI models get trained: data, compute, scaling laws, and the TPM lens on training cost and risk.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-b8460240-544f-49f2-b12c-78850ab16c23.mp3" length="9441061" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-b8460240-544f-49f2-b12c-78850ab16c23</guid>
+    <pubDate>Thu, 22 Oct 2026 14:59:28 +0000</pubDate>
+    <itunes:duration>1180</itunes:duration>
+  </item>
+</channel>
+</rss>
