@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>AI Mornings with Aman</title>
-  <description>AI Mornings with Aman — the 20-minute weekday briefing for people who build with AI.
+  <title>Agentic Mornings</title>
+  <description>Agentic Mornings — the 20-minute weekday briefing for people who build with AI.
 
 Every weekday morning: the day's biggest AI stories, then one big idea explained properly — from first principles, with the numbers that matter: what it costs, how fast it runs, and how you know it actually works.
 
@@ -19,7 +19,7 @@ New episodes every weekday morning.</description>
   <itunes:category text="Technology">
     <itunes:category text="Tech News"/>
   </itunes:category>
-  <itunes:summary>AI Mornings with Aman — the 20-minute weekday briefing for people who build with AI.
+  <itunes:summary>Agentic Mornings — the 20-minute weekday briefing for people who build with AI.
 
 Every weekday morning: the day's biggest AI stories, then one big idea explained properly — from first principles, with the numbers that matter: what it costs, how fast it runs, and how you know it actually works.
 
@@ -32,7 +32,7 @@ New episodes every weekday morning.</itunes:summary>
   <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   <image>
     <url>https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png</url>
-    <title>AI Mornings with Aman</title>
+    <title>Agentic Mornings</title>
     <link>https://muse.ai/podcasts/feed/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8</link>
   </image>
   <item>
@@ -44,6 +44,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-aa74d02f-5400-4196-b617-b258e4d8a95d</guid>
     <pubDate>Fri, 09 Oct 2026 06:09:01 +0000</pubDate>
     <itunes:duration>1128</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 9, 2026: How RAG Works</title>
@@ -54,6 +59,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-6307c9b5-7078-4578-a825-8433fe418e75</guid>
     <pubDate>Fri, 09 Oct 2026 15:11:17 +0000</pubDate>
     <itunes:duration>1683</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 12, 2026: How AI Agents Actually Work</title>
@@ -64,6 +74,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-3e71a65a-bad1-4ce6-909b-2919068fb4bb</guid>
     <pubDate>Mon, 12 Oct 2026 14:48:09 +0000</pubDate>
     <itunes:duration>1784</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 13, 2026: Evals — How You Know AI Actually Works</title>
@@ -74,6 +89,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-48ae76cf-8795-4ffa-8017-c0c39623c5dd</guid>
     <pubDate>Tue, 13 Oct 2026 14:47:00 +0000</pubDate>
     <itunes:duration>1734</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 14, 2026: MCP — The USB Port for AI</title>
@@ -84,6 +104,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-3ceffd1b-02ce-4998-b87b-bbe2d0cbf343</guid>
     <pubDate>Wed, 14 Oct 2026 14:58:02 +0000</pubDate>
     <itunes:duration>1783</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 15, 2026: Inference — Where the Token Bill Lives</title>
@@ -94,6 +119,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-518a3cb7-310a-4ed8-b343-22dfc9b70976</guid>
     <pubDate>Thu, 15 Oct 2026 14:45:50 +0000</pubDate>
     <itunes:duration>1837</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 16, 2026: How Multimodal Models See</title>
@@ -104,6 +134,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-388a0126-9819-4f47-9a91-a817c62be9a3</guid>
     <pubDate>Fri, 16 Oct 2026 15:02:55 +0000</pubDate>
     <itunes:duration>1708</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 19, 2026: Fine-Tuning vs RAG</title>
@@ -114,6 +149,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-8ebe4db2-fff8-4cf2-8d7e-45ba287fc1ce</guid>
     <pubDate>Mon, 19 Oct 2026 14:42:22 +0000</pubDate>
     <itunes:duration>1081</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 20, 2026: AI Safety and Guardrails</title>
@@ -124,6 +164,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-79ad6392-76bf-43ba-96bb-019926d6fa1b</guid>
     <pubDate>Tue, 20 Oct 2026 14:47:34 +0000</pubDate>
     <itunes:duration>1251</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 21, 2026: Prompt Engineering, From First Principles</title>
@@ -134,6 +179,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-a564e285-f6d0-4187-8b1d-b3e9ecf96106</guid>
     <pubDate>Wed, 21 Oct 2026 15:01:38 +0000</pubDate>
     <itunes:duration>1362</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
   <item>
     <title>AI Mornings — October 22, 2026: How AI Models Get Trained</title>
@@ -144,6 +194,11 @@ AI Generated</description>
     <guid isPermaLink="false">ep-b8460240-544f-49f2-b12c-78850ab16c23</guid>
     <pubDate>Thu, 22 Oct 2026 14:59:28 +0000</pubDate>
     <itunes:duration>1180</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
 </channel>
 </rss>
