@@ -28,7 +28,7 @@ No hype, no hot takes. News up front, deep dive after — the stuff that matters
 New episodes every weekday morning.</itunes:summary>
   <itunes:type>episodic</itunes:type>
   <itunes:explicit>false</itunes:explicit>
-  <atom:link href="https://muse.ai/podcasts/feed/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://dailyintelligencesupport-feed.github.io/ai-mornings-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   <image>
     <url>https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png</url>
