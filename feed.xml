@@ -200,5 +200,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 23, 2026: Embeddings — How AI Searches by Meaning</title>
+    <description>Pathos AI&apos;s $237M drug-discovery bet, AI-discovered vulnerabilities doubling, the SEC&apos;s AI exams, China&apos;s hiring guardrails — plus a deep dive on embeddings and vector search: how AI searches by meaning, and the TPM lens on cost, latency, evals, and bias.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-ca2a9495-2195-4521-ad98-9dbd178d8c39.mp3" length="10171045" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ca2a9495-2195-4521-ad98-9dbd178d8c39</guid>
+    <pubDate>Fri, 23 Oct 2026 14:56:12 +0000</pubDate>
+    <itunes:duration>1271</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
