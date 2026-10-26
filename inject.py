@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sync the "AI Mornings with Aman" mirror feed.
+"""Sync the "Agentic Mornings" mirror feed.
 
 Fetches the source feed from muse.ai and writes feed.xml with the
 channel metadata Apple Podcasts and Spotify require but the source
@@ -12,6 +12,9 @@ feed does not emit:
   - per-episode <itunes:season>/<itunes:episode>/<itunes:episodeType>
     and episode artwork (the source omits them, so Apple Podcasts
     showed "Unknown Season" and no episode art)
+  - pre-rename episode titles rewritten from "AI Mornings ..." to
+    "Agentic Mornings ..." (the show renamed 2026-10-22; the source
+    feed still carries the old titles on episodes 1-11)
 
 Run by .github/workflows/sync-feed.yml on GitHub's runners; can also
 be run locally:  python3 inject.py
@@ -46,14 +49,15 @@ def esc(s):
 
 def inject(xml, public_url=""):
     """Return the feed with channel metadata injected. Only the
-    channel header (everything before the first <item>) is touched;
-    episodes, enclosures and GUIDs pass through byte-identical."""
+    channel header (everything before the first <item>) is touched,
+    plus per-episode titles (see enhance_items); enclosures and
+    GUIDs pass through byte-identical."""
     head, sep, rest = xml.partition("<item>")
     if not sep:
         raise ValueError("no <item> found - not a podcast feed?")
 
     # Show title (channel <title> and the <image> title — both live in
-    # the header; episode titles are past the first <item>, untouched).
+    # the header). Episode titles are handled in enhance_items.
     head = re.sub(r"<title>.*?</title>",
                   "<title>" + esc(SHOW_TITLE) + "</title>",
                   head, flags=re.S)
@@ -100,7 +104,8 @@ def inject(xml, public_url=""):
 
 
 def enhance_items(rest, head):
-    """Add season/episode numbering and artwork to every episode.
+    """Add season/episode numbering and artwork to every episode,
+    and rename pre-rename episode titles to the new show name.
     Episode numbers follow publication order (oldest = Episode 1);
     existing source tags are respected, so re-runs are no-ops."""
     m = re.search(r'<itunes:image href="([^"]+)"', head)
@@ -127,6 +132,12 @@ def enhance_items(rest, head):
         blk = match.group(0)
         idx = enhance.i
         enhance.i += 1
+        # Rename pre-rename episodes: "AI Mornings ..." (or
+        # "AI Mornings with Aman ...") -> "Agentic Mornings ...".
+        # Episodes from Oct 23 on already carry the new name, so the
+        # prefix swap leaves them untouched and re-runs are no-ops.
+        blk = re.sub(r"<title>AI Mornings( with Aman)?",
+                     "<title>" + SHOW_TITLE, blk, count=1)
         if "<itunes:episode>" in blk:
             return blk
         extra = ["    <itunes:season>1</itunes:season>",
