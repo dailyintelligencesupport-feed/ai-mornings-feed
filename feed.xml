@@ -215,5 +215,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 26, 2026: Context Engineering — What Your AI Actually Sees</title>
+    <description>OpenAI&apos;s sandbox escapes, Kimi K3.1 Pro&apos;s launch, inference prices down 80%, and the UK&apos;s AI biosecurity lab — plus a deep dive on context engineering: what a model sees, what it costs, and how to measure it.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-c7d0263f-6f13-402f-ac71-01cb5797e72d.mp3" length="10215013" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-c7d0263f-6f13-402f-ac71-01cb5797e72d</guid>
+    <pubDate>Mon, 26 Oct 2026 14:38:36 +0000</pubDate>
+    <itunes:duration>1276</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
