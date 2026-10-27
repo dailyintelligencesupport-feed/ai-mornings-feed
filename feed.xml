@@ -230,5 +230,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 27, 2026: Reasoning and Test-Time Compute</title>
+    <description>Reasoning and test-time compute — why letting a model think longer works, what it costs, and how to set the dial, plus Anthropic&apos;s S-1, OpenAI&apos;s GPT-6.1 Terra, Meta&apos;s $95B raise, and Akamai&apos;s agent sandbox
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-a9deffb4-a81a-4da9-b16f-2ecc51140230.mp3" length="10308133" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a9deffb4-a81a-4da9-b16f-2ecc51140230</guid>
+    <pubDate>Tue, 27 Oct 2026 14:38:09 +0000</pubDate>
+    <itunes:duration>1288</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
