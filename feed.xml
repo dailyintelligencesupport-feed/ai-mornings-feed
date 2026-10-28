@@ -245,5 +245,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 28, 2026: Model Compression — How Big AI Gets Small</title>
+    <description>Model compression — quantization, pruning, and distillation — plus Apple&apos;s M6 on-device AI pitch, DeepMind&apos;s Genie 4 world model, SAP&apos;s cheaper-model swap, and the reported OpenAI–Google chip deal.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-6df110c4-2074-46da-8987-3b9942e66a2c.mp3" length="10195237" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-6df110c4-2074-46da-8987-3b9942e66a2c</guid>
+    <pubDate>Wed, 28 Oct 2026 14:40:31 +0000</pubDate>
+    <itunes:duration>1274</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
