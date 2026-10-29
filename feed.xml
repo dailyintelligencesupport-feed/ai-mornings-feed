@@ -260,5 +260,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 29, 2026: Agent Memory — How AI Agents Remember Across Sessions</title>
+    <description>Google&apos;s Gemini 4 Carbon, Nvidia and AMD&apos;s $4B Meta bet, Liquid&apos;s pocket-sized LFM3 models, and Anthropic&apos;s government discount — then a deep dive on how AI agents remember across sessions, and why memory is a product decision with a bill.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-a24087be-1221-4688-8eb2-8c5145a21a23.mp3" length="9776101" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a24087be-1221-4688-8eb2-8c5145a21a23</guid>
+    <pubDate>Thu, 29 Oct 2026 14:39:19 +0000</pubDate>
+    <itunes:duration>1222</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
