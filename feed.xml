@@ -275,5 +275,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — October 30, 2026: AI Observability — Tracing Agent Runs</title>
+    <description>Mistral&apos;s open-weight Large 4, CrowdStrike&apos;s agent swarm, OpenAI&apos;s agent monitoring, and Canada&apos;s Cohere stake — then a deep dive on AI observability and tracing agent runs.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-3669e3b5-db84-464c-8142-519e68565c25.mp3" length="11620069" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-3669e3b5-db84-464c-8142-519e68565c25</guid>
+    <pubDate>Fri, 30 Oct 2026 14:42:23 +0000</pubDate>
+    <itunes:duration>1452</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
