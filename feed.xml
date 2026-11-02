@@ -290,5 +290,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 2, 2026: AI Safety and Guardrails</title>
+    <description>One shared robots.txt opt-out, Apple Intelligence in China with Qwen, a shared ChatGPT/Codex allowance — then a deep dive on AI safety and guardrails.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-a02d441c-ee69-40fb-a0cf-a022d9c42107.mp3" length="10315813" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-a02d441c-ee69-40fb-a0cf-a022d9c42107</guid>
+    <pubDate>Mon, 02 Nov 2026 15:38:23 +0000</pubDate>
+    <itunes:duration>1289</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
