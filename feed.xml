@@ -305,5 +305,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 3, 2026: AI Infrastructure Economics — How Compute, Interconnect, and Power Turn Into Your AI Bill</title>
+    <description>Anthropic&apos;s reported compute commitments, Marvell&apos;s Lumentum deal, enterprise AI spending, and DeepSeek&apos;s router-worker prototype — then a deep dive on AI infrastructure economics.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-828da9b6-8361-410f-a7ab-33f4332a5850.mp3" length="9727333" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-828da9b6-8361-410f-a7ab-33f4332a5850</guid>
+    <pubDate>Tue, 03 Nov 2026 15:38:01 +0000</pubDate>
+    <itunes:duration>1215</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
