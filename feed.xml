@@ -320,5 +320,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 4, 2026: Multi-Agent Systems — How Teams of AI Agents Work Together</title>
+    <description>Multi-agent systems explained from first principles — supervisor/worker, peer handoffs, debate loops, shared context, failure modes — plus the day&apos;s AI news on CrowdStrike, Snowflake, Google schools, and OpenAI search.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-d48d08b0-ce41-4e9b-959a-fbfee3711bd9.mp3" length="10771621" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d48d08b0-ce41-4e9b-959a-fbfee3711bd9</guid>
+    <pubDate>Wed, 04 Nov 2026 16:11:11 +0000</pubDate>
+    <itunes:duration>1346</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
