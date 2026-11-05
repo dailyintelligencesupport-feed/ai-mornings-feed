@@ -335,5 +335,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 5, 2026: Open-Weight Models — What &apos;Open&apos; Really Means</title>
+    <description>Tencent&apos;s Hy4 can see and use a computer but its weights aren&apos;t open yet; Moonshot&apos;s Kimi K3.1 Pro is the biggest downloadable open-weight model ever. Then the deep dive: what &apos;open&apos; really means, what hosting one actually costs, and the TPM build-vs-buy checklist.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-d16e7d4c-fda8-4e6d-8491-29bf9afb3b20.mp3" length="9114277" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d16e7d4c-fda8-4e6d-8491-29bf9afb3b20</guid>
+    <pubDate>Thu, 05 Nov 2026 15:58:31 +0000</pubDate>
+    <itunes:duration>1139</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
