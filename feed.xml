@@ -350,5 +350,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 6, 2026: AI Agents in Production — Reliability, Retries, and Failure Modes</title>
+    <description>Uber&apos;s agents booked just 4 rides in 320 million; METR says Anthropic&apos;s AI is now improving twice as fast; OpenAI&apos;s GPT-6 Cyber found 81 Firefox flaws; Google bets $17B on Wyoming. Then the deep dive: what it takes to run AI agents in production — idempotency, retries, timeouts, and failure modes.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-2f543815-802a-4362-866f-06571bdff4d1.mp3" length="10037989" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2f543815-802a-4362-866f-06571bdff4d1</guid>
+    <pubDate>Fri, 06 Nov 2026 12:44:44 +0000</pubDate>
+    <itunes:duration>1254</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
