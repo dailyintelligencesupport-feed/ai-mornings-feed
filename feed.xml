@@ -365,5 +365,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 9, 2026: Prompt Engineering — The Requirements Engineering of AI</title>
+    <description>Claude Code leaked real credentials into public GitHub repos; NVIDIA bets on Korean silicon for sovereign AI; OpenAI closes $11B at a $1.25T valuation; the FT reports Anthropic bought $3.4B of gas generators. Then the deep dive: prompt engineering as the requirements engineering of AI.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-f456dcea-3af1-4bcc-ad35-a8af91370632.mp3" length="9776485" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f456dcea-3af1-4bcc-ad35-a8af91370632</guid>
+    <pubDate>Mon, 09 Nov 2026 12:38:53 +0000</pubDate>
+    <itunes:duration>1222</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
