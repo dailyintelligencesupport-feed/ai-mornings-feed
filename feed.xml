@@ -380,5 +380,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 10, 2026: Model Distillation — Teaching Small Models to Do Big Jobs</title>
+    <description>Anthropic ships Claude Fable 5.2 and Mythos 5.2; Meta launches tiny Muse Ember for agent grunt work; Google adds TPU 8tx and TPU 8i Max; Australia moves to mandate AI breach reporting. Then the deep dive: model distillation — how a giant teacher model trains a tiny, cheap student model, and when a TPM should distill instead of paying frontier prices on every call.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-5dce713c-8446-4072-b617-b9571da7dee2.mp3" length="9442789" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5dce713c-8446-4072-b617-b9571da7dee2</guid>
+    <pubDate>Tue, 10 Nov 2026 12:40:19 +0000</pubDate>
+    <itunes:duration>1180</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
