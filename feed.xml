@@ -395,5 +395,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 11, 2026: Reinforcement Learning — How AI Models Learn From Rewards</title>
+    <description>How AI models learn from rewards — RLHF, verifiable rewards, and the reward hacking trap — plus AlphaProof verifies Signal, Gemini 4 Carbon goes GA, Anthropic&apos;s IPO roadshow, and a backdoor in ten neurons.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-ef8d9ddc-9845-4344-aeab-860eea15d849.mp3" length="9077221" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ef8d9ddc-9845-4344-aeab-860eea15d849</guid>
+    <pubDate>Wed, 11 Nov 2026 12:39:25 +0000</pubDate>
+    <itunes:duration>1134</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
