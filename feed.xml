@@ -410,5 +410,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 12, 2026: Embeddings and Vector Search — How AI Turns Meaning Into Numbers</title>
+    <description>DeepMind&apos;s AlphaGenome 2 reads DNA cell by cell, Alibaba&apos;s Qwen4-Max preview retires in 15 days, Runway open-sources the Praxis-1 robot model, and United bans AI agents from booking flights — then the deep dive: embeddings and vector search, how meaning becomes numbers and how retrieval really works.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-4f9f141a-28e8-47a4-adc8-3f4be8c47326.mp3" length="9612901" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-4f9f141a-28e8-47a4-adc8-3f4be8c47326</guid>
+    <pubDate>Thu, 12 Nov 2026 13:02:29 +0000</pubDate>
+    <itunes:duration>1201</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
