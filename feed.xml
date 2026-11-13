@@ -425,5 +425,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 13, 2026: Structured Outputs and Tool Calling — How Models Produce Reliable JSON</title>
+    <description>Jensen Huang resigns from Nvidia, SpaceX bets $74 billion on AI supercomputing, Google ships the fast Gemini 4 Hydrogen, and Anthropic moves Claude agents inside your firewall — then the deep dive: structured outputs and tool calling, how models produce reliable JSON and function calls, and what that means for cost, latency, and trust.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-410805a2-684f-4f6a-9ff9-72abeffbf666.mp3" length="9180901" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-410805a2-684f-4f6a-9ff9-72abeffbf666</guid>
+    <pubDate>Fri, 13 Nov 2026 12:55:48 +0000</pubDate>
+    <itunes:duration>1147</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
