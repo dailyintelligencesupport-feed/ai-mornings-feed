@@ -440,5 +440,35 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 16, 2026: Agent Memory — How AI Remembers What Matters</title>
+    <description>Jensen Huang weighs a comeback at Nvidia as Washington demands answers in ten days, Alibaba ships a flagship model with a million-token context, Claude starts joining your meetings, and researchers find Blackwell fingerprints in Chinese models — then the deep dive: agent memory, how AI remembers what matters, and what it costs to forget.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-4553a3f9-244c-4df0-bf60-b7ec68fac9b2.mp3" length="9873829" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-4553a3f9-244c-4df0-bf60-b7ec68fac9b2</guid>
+    <pubDate>Mon, 16 Nov 2026 12:42:03 +0000</pubDate>
+    <itunes:duration>1234</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
+  <item>
+    <title>Agentic Mornings — November 16, 2026: Agent Memory — How AI Remembers What Matters</title>
+    <description>Jensen Huang weighs a comeback at Nvidia as Washington demands answers in ten days, Alibaba ships a flagship model with a million-token context, Claude starts joining your meetings, and researchers find Blackwell fingerprints in Chinese models — then the deep dive: agent memory, how AI remembers what matters, and what it costs to forget.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-e12d4ab1-d9d9-41c3-9271-f0a61e9c95c2.mp3" length="9592357" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e12d4ab1-d9d9-41c3-9271-f0a61e9c95c2</guid>
+    <pubDate>Mon, 16 Nov 2026 12:55:38 +0000</pubDate>
+    <itunes:duration>1199</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
