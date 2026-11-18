@@ -470,5 +470,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 18, 2026: Test-Time Compute — Why the Smartest AI Thinks Longer</title>
+    <description>OpenAI&apos;s GPT-6.2 Astra, Anthropic&apos;s IPO, Microsoft&apos;s seven MAI models, and a safety study that turns refusals off — plus a deep dive on test-time compute: why the smartest AI thinks longer, and what that costs.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-1ef783dd-df0e-44ac-9936-df7137a64e2e.mp3" length="9659941" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1ef783dd-df0e-44ac-9936-df7137a64e2e</guid>
+    <pubDate>Wed, 18 Nov 2026 12:43:32 +0000</pubDate>
+    <itunes:duration>1207</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
