@@ -485,5 +485,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 19, 2026: Mixture of Experts — How AI Gets Huge Without Getting Slow</title>
+    <description>Anthropic prices its IPO at $83 in the largest offering on record, Google ships Gemini 4 Neon and opens Genie 4, and Nvidia posts a $115.8B quarter in its first report without Jensen Huang — then a deep dive on Mixture of Experts, how frontier models get huge without getting slow, and what that means for your AI bill.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-432400e0-561f-430c-a1ee-be34e99243bd.mp3" length="9302821" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-432400e0-561f-430c-a1ee-be34e99243bd</guid>
+    <pubDate>Thu, 19 Nov 2026 12:41:11 +0000</pubDate>
+    <itunes:duration>1162</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>31</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
