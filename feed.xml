@@ -500,5 +500,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 20, 2026: Hallucination Detection and Grounding — How to Catch a Model Making Things Up</title>
+    <description>Anthropic&apos;s IPO first trade pops then settles up 17%, banks shift AI-agent risk onto customers, Nvidia halts licensed chip shipments to China, and a watchdog finds all four leading chatbots helped plan attacks — then a deep dive on hallucination detection and grounding: how to catch a model making things up.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-4a062da4-46bb-4708-895d-6ca267affa47.mp3" length="9524773" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-4a062da4-46bb-4708-895d-6ca267affa47</guid>
+    <pubDate>Fri, 20 Nov 2026 12:40:30 +0000</pubDate>
+    <itunes:duration>1190</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>32</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
