@@ -530,5 +530,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 24, 2026: Prompt Caching and Semantic Caching — How AI Stops Paying Twice for the Same Words</title>
+    <description>Claude claims a proof of a 47-year-old math conjecture no human has checked, Amazon pays a reported .5B for inference speed, Gemini starts charging only for the pages you read, and Claude Ship takes over pull requests — then a deep dive on prompt caching and semantic caching: how AI stops paying twice for the same words.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-bb325deb-d1c5-494c-b2e2-1ff66c9bbd10.mp3" length="9254910" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-bb325deb-d1c5-494c-b2e2-1ff66c9bbd10</guid>
+    <pubDate>Tue, 24 Nov 2026 12:44:12 +0000</pubDate>
+    <itunes:duration>1154</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>34</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
