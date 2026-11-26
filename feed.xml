@@ -545,5 +545,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 25, 2026: Speculative Decoding — How AI Writes Faster Without Thinking Faster</title>
+    <description>GPT-6 designs proteins that bind in the lab, CrowdStrike buys Zscaler for forty-three point nine billion dollars to secure AI agents, Claude artifacts become desktop apps as MCP turns two, and a twenty-seven-billion-parameter model fits in five point nine gigabytes — then a deep dive on speculative decoding: how AI writes faster without thinking faster.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-451af37c-b54e-4c0d-80f4-55b6fb539f54.mp3" length="9797310" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-451af37c-b54e-4c0d-80f4-55b6fb539f54</guid>
+    <pubDate>Wed, 25 Nov 2026 14:40:10 +0000</pubDate>
+    <itunes:duration>1222</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>35</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
