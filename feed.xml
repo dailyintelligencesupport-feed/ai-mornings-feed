@@ -560,5 +560,20 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
   </item>
+  <item>
+    <title>Agentic Mornings — November 26, 2026: Prompt Injection — Securing Agents That Can Act</title>
+    <description>SpaceX gets conditional clearance for a million AI satellites in orbit, agents find a zero-day on their own, OpenAI tests Private Inference, and Anthropic&apos;s Claude agents rewrite its own API — then a deep dive on prompt injection: why agents that can act need a defense in depth.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/ep-5586e71e-058d-4208-96a0-bda2abebf7dd.mp3" length="9926718" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5586e71e-058d-4208-96a0-bda2abebf7dd</guid>
+    <pubDate>Thu, 26 Nov 2026 13:30:08 +0000</pubDate>
+    <itunes:duration>1238</itunes:duration>
+  
+    <itunes:season>1</itunes:season>
+    <itunes:episode>36</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://muse.ai/podcasts/media/792746890580046/c6dcc620-f4b7-4a9c-9ed1-7bd3124daff8/cover.png"/>
+  </item>
 </channel>
 </rss>
